@@ -1,12 +1,10 @@
 # acc-patch-lecture-json-server-demo
 
-- 🔥🔥🔥 CODE DEMO! 🔥🔥🔥
+🔥🔥🔥 CODE DEMO! 🔥🔥🔥
     
-    REPO: 
-    
-    - Create `db.json` file
-    - Add the following data
-        - Fake JSON data
+- Create `db.json` file
+- Add the following data
+    - Fake JSON data:
             
             ```json
             {
@@ -204,8 +202,7 @@
         - [Sort](https://github.com/typicode/json-server#sort)
             - `?_sort=id&_order=desc`
         - [Slice](https://github.com/typicode/json-server#slice)
-            
-            `?_start=2&_end=3`
+            - `?_start=2&_end=3`
             
 - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/fetch#syntax)
     - Write a get request
